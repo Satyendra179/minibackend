@@ -1,0 +1,14 @@
+{
+    "shalu": [
+        {
+            "type":"myChona",
+            "id":1
+        }
+    ],
+    "ravi": [
+        {
+            "name":"ravi",
+            "id": 2
+        }
+    ]
+}
